@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Best Stream EVER",
+      "description": "CS:GO",
+      "userId": "10438122876465948634",
+      "id": 1
+    },
+    {
+      "title": "LOOTBOXES",
+      "description": "OverWatch",
+      "userId": "104381228764659486349",
+      "id": 2
+    },
+    {
+      "title": "Grinding!!!",
+      "description": "watch me grind at diablo 3",
+      "userId": "104381228764659486349",
+      "id": 3
+    },
+    {
+      "title": "Road to Silver",
+      "description": "i wanna be silver so badddd",
+      "userId": "1043812287646594863",
+      "id": 4
+    },
+    {
+      "title": "Valorant is shit",
+      "description": "but i still play it",
+      "userId": "104381228764659486349",
+      "id": 5
+    }
+  ]
+}
